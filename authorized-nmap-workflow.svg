@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+<rect width="900" height="300" fill="#fff"/>
+<text x="450" y="35" font-family="Arial" font-size="22" font-weight="bold" text-anchor="middle" fill="#1f2937">Authorized Nmap Lab Workflow</text>
+<g font-family="Arial" font-size="15" text-anchor="middle">
+<rect x="35" y="100" width="175" height="90" rx="12" fill="#e0f2fe" stroke="#0284c7" stroke-width="2"/>
+<text x="122" y="135" fill="#0c4a6e"><tspan x="122">Your computer</tspan><tspan x="122" dy="22">(Nmap / Zenmap)</tspan></text>
+<rect x="270" y="100" width="175" height="90" rx="12" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+<text x="357" y="135" fill="#14532d"><tspan x="357">Authorized</tspan><tspan x="357" dy="22">lab target</tspan></text>
+<rect x="505" y="100" width="175" height="90" rx="12" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+<text x="592" y="135" fill="#78350f"><tspan x="592">Scan results</tspan><tspan x="592" dy="22">ports / services / OS</tspan></text>
+<rect x="735" y="100" width="130" height="90" rx="12" fill="#f3e8ff" stroke="#9333ea" stroke-width="2"/>
+<text x="800" y="135" fill="#581c87"><tspan x="800">Report</tspan><tspan x="800" dy="22">+ screenshot</tspan></text>
+<g stroke="#475569" stroke-width="2.5" fill="none"><path d="M210 145 H260"/><path d="M250 137 L260 145 L250 153"/><path d="M445 145 H495"/><path d="M485 137 L495 145 L485 153"/><path d="M680 145 H725"/><path d="M715 137 L725 145 L715 153"/></g>
+</g>
+<text x="450" y="245" font-family="Arial" font-size="14" text-anchor="middle" fill="#b91c1c">Only scan systems you own or have explicit permission to test.</text>
+</svg>
